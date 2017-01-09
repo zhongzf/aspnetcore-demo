@@ -1,0 +1,10 @@
+{
+  "name": "ASP.NET Core Demo",
+  "description": "Welcome to ASP.NET Core.",
+  "keywords": ["asp.net", "heroku", "buildpack"],
+  "repository": "https://github.com/zhongzf/aspnetcore-demo",
+  "website": "https://aspnetcore-demo.herokuapp.com",
+  "buildpacks": [{
+    "url": "https://github.com/zhongzf/aspnetcore-buildpack.git"
+  }]
+}
